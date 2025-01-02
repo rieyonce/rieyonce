@@ -70,6 +70,8 @@ while running:
     # Gambar bangunan
     draw_buildings()
 
+    # Memperbarui layar
     pygame.display.flip()
 
+# Keluar dari Pygame
 pygame.quit()
